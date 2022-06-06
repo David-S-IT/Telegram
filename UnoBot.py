@@ -5,7 +5,7 @@ import telebot, random, datetime, traceback
 
 while True:
     try:
-        bot = telebot.TeleBot('1192869940:AAGBx2uzrpaLRBx93YngQ2xMs9A6Vn2SvoQ')
+        bot = telebot.TeleBot('так я тебе и сказал')
 
         # Клавиатуры
         keyboard_start = telebot.types.ReplyKeyboardMarkup(resize_keyboard=False, one_time_keyboard=True)
