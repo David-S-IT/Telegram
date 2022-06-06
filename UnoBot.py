@@ -1,3 +1,6 @@
+# Бот, для того, чтобы с ним играть в Уно (не доделанный проект)
+
+
 import telebot, random, datetime, traceback
 
 while True:
